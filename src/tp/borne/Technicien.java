@@ -7,6 +7,7 @@ public class Technicien {
     private String prenom;
     private ArrayList<Visite> lesVisites;
     
+    
     public Technicien(){
      Scanner lc = new Scanner(System.in);
      System.out.println("Inserez le matricule du Technicien");
