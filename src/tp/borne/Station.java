@@ -3,6 +3,7 @@ package tp.borne;
 import java.util.*;
 import java.util.ArrayList;
 
+
 public class Station {
     Scanner lc = new Scanner(System.in);
     private int idStation;
