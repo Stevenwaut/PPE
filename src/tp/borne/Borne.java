@@ -15,6 +15,8 @@ public class Borne {
    
    
    
+   
+   
    public Borne(){
    //Creation du type de la Borne
    TypeBorne leType = new TypeBorne();    
