@@ -2,6 +2,7 @@ package Forme;
 import java.util.Scanner;
 
 
+
 public class Cercle extends Forme{
     Scanner lc = new Scanner (System.in);    
     protected int r;
