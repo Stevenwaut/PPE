@@ -23,6 +23,7 @@ public class Borne {
    System.out.println("Inserez le numéro de la Borne");
    idBorne = lc.nextInt();   
    
+   
    //Gestion de la date de revision de la borne
    System.out.println("Inserez la date de dernière revision de la Borne");
    System.out.println("Quel est l'année?");
